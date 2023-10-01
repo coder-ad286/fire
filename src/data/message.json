@@ -1,0 +1,27 @@
+[
+    {
+      "id":1,
+      "title": "MSG1",
+      "para": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Omnis, maxime!"
+    },
+    {
+      "id":2,
+      "title": "MSG2",
+      "para": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Omnis, maxime!"
+    },
+    {
+      "id":3,
+      "title": "MSG3",
+      "para": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Omnis, maxime!"
+    },
+    {
+      "id":4,
+      "title": "MSG4",
+      "para": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Omnis, maxime!"
+    },
+    {
+      "id":5,
+      "title": "MSG5",
+      "para": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Omnis, maxime!"
+    }
+  ]
